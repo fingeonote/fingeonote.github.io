@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Welcome to Lagrange!
+title: Welcome to Fingeo Lab!
 permalink: /about
 ---
 
